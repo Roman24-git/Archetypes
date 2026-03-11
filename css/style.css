@@ -98,8 +98,10 @@ a {
 }
 
 .hero__btn__info {
+    display: inline-block;
     width: 247px;
     height: 51px;
+    text-align: center;
     border-radius: 100px;
     padding-top: 15px;
     padding-right: 40px;
@@ -112,8 +114,10 @@ a {
 }
 
 .hero__btn__test {
+    display: inline-block;
     width: 247px;
     height: 51px;
+    text-align: center;
     border-radius: 100px;
     padding-top: 15px;
     padding-right: 40px;
@@ -167,8 +171,10 @@ a {
 }
 
 .info__btn {
+    display: inline-block;
     width: 261px;
     height: 51px;
+    text-align: center;
     border-radius: 100px;
     padding-top: 15px;
     padding-right: 40px;
